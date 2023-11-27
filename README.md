@@ -20,7 +20,7 @@
 
 ### <a align="center" href="https://github.com/renyzeraa/rocketseat-explorer/tree/master/Stage05"> Stage 06  🏷 </a>&nbsp;
 
-<a href="https://renyzeraa.github.io/rocketseat-explorer/Stage05/Aula01"> 🚀 Deploy Github Favorites 🔎 </a>&nbsp; </br>
+<a href="/"> 🚀 Deploy Github Favorites 🔎 </a>&nbsp; </br>
 
 
 
