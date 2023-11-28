@@ -19,3 +19,7 @@ git restore index.html === para restaura alguma modificação feita errada, enta
 git restore --staged .  || ou o nome do arquivo ===  é utilizado para desfazer as mudanças que foram adicionadas à área de preparação (staging area) do Git
 git commit --amend -m "Nome do commit" === vai ser modificado a descrição do ultimo commit
 git reset --soft HEAD~1 === vai resetar, vai desfazer o ultimo commit
+git remote add oringin 'link do repositorio' === adicionando pra qual endereço meu projeto vai ser hospedado
+git remote --v === consulta qual enderço remoto está hospedado
+git push -u origin main === para enviar meus arquivos para o repositorio GitHub
+git push === quando já existe um repositorio
