@@ -25,3 +25,4 @@ git push -u origin main === para enviar meus arquivos para o repositorio GitHub
 git push === quando já existe um repositorio
 
 .gitignore === esse arquivo vai ignorar tudo que eu quiser que o git ignore 
+git rm -r --cached . === limpar o cache
