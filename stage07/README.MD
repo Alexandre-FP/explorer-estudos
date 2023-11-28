@@ -23,3 +23,5 @@ git remote add oringin 'link do repositorio' === adicionando pra qual endereço 
 git remote --v === consulta qual enderço remoto está hospedado
 git push -u origin main === para enviar meus arquivos para o repositorio GitHub
 git push === quando já existe um repositorio
+
+.gitignore === esse arquivo vai ignorar tudo que eu quiser que o git ignore 
