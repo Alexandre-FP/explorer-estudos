@@ -1,6 +1,6 @@
 configurar o git = {
-	git config --global user.name 'Alexandre Fernandes',
-	git config --global user.email 'alexnadrefernandes.132132@gmail.com',
+	git config --global user.name 'NOME',
+	git config --global user.email 'EMAIL',
 	paraSaberQualConfig: {
  		git config --list
  }	
