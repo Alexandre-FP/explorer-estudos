@@ -1,0 +1,54 @@
+body{ /* corpo da minha pagina*/
+    font-family: 'Open Sans', 'sans-serif';
+    text-align: center; /* colocando meus elementos no meio da tela*/
+    margin: 0;
+}
+
+#hero{
+   width: 592; /* width == largura */ 
+   margin: 0 auto 72px; /* top, right, bottom, left*/
+}
+
+#hero img{
+    margin-bottom: 72px;
+}
+
+h1{
+    font-family: 'Inter', 'sans-serif'; /* definido a font do projeto */
+    font-size: 49px; /* tamanho dos meus textos*/
+    line-height: 56px; /* tamanaho da linha */
+    font-weight: normal; /* peso da font */
+    margin-bottom: 32px;
+}
+
+h1 span{ /* sendo mas especico qual elemento eu quero dentro meu h1*/
+    font-weight: bold;   
+}
+
+
+span, a{
+    color: #ff9900;
+}
+
+p, #footer{ 
+    color: #7d7987;
+    font-size: 14px;
+    line-height: 28px; 
+}
+
+#footer a + a{
+    margin-left: 28px;
+}
+
+#line{
+    width: 568px;
+    height: 0px;  
+    margin: 0 auto 8px; 
+    border: 1px solid #eceff2;
+}
+
+#balls{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
